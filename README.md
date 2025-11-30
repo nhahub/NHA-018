@@ -48,6 +48,8 @@ Research demonstrates that hotels relying on Business Intelligence and predictiv
 
 ![Model result](AI_model/cluster_accuracy.png)
 
+**📌 Streamlit**
+![streamlit](AI_model/Streamlit.jpg)
 
 **📌 Data Schema**
 ![Data Schema](row_datasets/Dataschema.png)
