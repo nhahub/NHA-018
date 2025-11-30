@@ -54,7 +54,7 @@ Research demonstrates that hotels relying on Business Intelligence and predictiv
 
 
 **📌 ETL Notebook Code**
-[Open ETL Notebook](ETL_Notebook.ipynb)
+[Open ETL Notebook](ETL/app.ipynb)
 
 Summary
 Automated ETL built in Python
